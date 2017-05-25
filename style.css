@@ -1,0 +1,37 @@
+.resume hr {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    border: none;
+    height: 10px;
+    background-color: #2ed14e;
+}
+
+#position {
+    color: #2ed14e;
+}
+
+.resume h1 h2 h3 h4 h5 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.resume h3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #2ed14e;
+    font-weight: bold;
+}
+
+.resume h4 {
+    padding-top: 10px;
+}
+
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
