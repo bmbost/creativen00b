@@ -80,4 +80,9 @@ $(document).ready(function() {
     $("#btnRndQuote").on("click", function() {
         window.open("http://codepen.io/Frenzyheart/full/WRjRbd/", "_blank");
     });
+
+    // Opens the source code for this very website, located on Github
+    $("#btnThisSiteCode").on("click", function() {
+        window.open("https://github.com/bmbost/creativen00b/", "_blank");
+    });
 });
