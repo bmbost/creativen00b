@@ -3,7 +3,6 @@ $(document).ready(function() {
     $("#about").hide();
     $("#projects").hide();
     $("#contact").hide();
-    $("#resume").show();
 
     // Shows About section, hides all others.
     $("#btnAbout").on("click", function() {
