@@ -1,8 +1,9 @@
 $(document).ready(function() {
-    // Start off hiding all but the About section.
+    // Start off hiding all but the Resume section.
+    $("#about").hide();
     $("#projects").hide();
     $("#contact").hide();
-    $("#resume").hide();
+    $("#resume").show();
 
     // Shows About section, hides all others.
     $("#btnAbout").on("click", function() {
